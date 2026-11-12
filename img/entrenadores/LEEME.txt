@@ -1,0 +1,5 @@
+Fotos de los entrenadores.
+Poné una imagen por entrenador y nombrala con el número de id:
+  1.jpg  -> entrenador con id 1
+Formatos admitidos: jpg, jpeg, png, webp.
+Para saber los ids: mysql -u root gimnasio -e "SELECT id, nombre FROM entrenadores;"
